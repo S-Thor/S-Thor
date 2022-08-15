@@ -14,13 +14,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Thor&label=Profile%20views&color=0e75b6&style=flat" alt="S-Thor" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Sunny_dev0" target="blank"><img src="https://img.shields.io/twitter/follow/Sunny_dev0?logo=twitter&style=for-the-badge" alt="sunny" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sjthoriya" target="blank"><img src="https://img.shields.io/twitter/follow/sjthoriya?logo=twitter&style=for-the-badge" alt="sunny" /></a> </p>
 
 - 📫 How to reach me **savjit.thoriya96@gmail.com**
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Sunny_dev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny" height="30" width="40" /></a>
+<a href="https://twitter.com/sjthoriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/savjit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Savjit" height="30" width="40" /></a>
 <!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a> -->
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shySunny" height="30" width="40" /></a>
